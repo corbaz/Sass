@@ -1,0 +1,14 @@
+//Variables
+$font: sans-serif, helvetica, arial, helvetica;
+$color-background: #ccc;
+$color-letra: #175f37;
+
+//uso de las variables
+body{
+    background-color: $color-background;
+}
+
+h1{
+    color:$color-letra;
+    font-family:$font;
+}
